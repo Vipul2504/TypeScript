@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc",
+    "run":"npm run build && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
